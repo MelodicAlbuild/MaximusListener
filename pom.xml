@@ -6,7 +6,7 @@
 
     <groupId>net.melodicalbuild</groupId>
     <artifactId>MaximusListener</artifactId>
-    <version>1.0-Pre1</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>MaximusListener</name>

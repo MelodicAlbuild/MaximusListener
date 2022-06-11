@@ -1,0 +1,6 @@
+name: MaximusListener
+version: '${project.version}'
+main: net.melodicalbuild.maximuslistener.MaximusListener
+api-version: 1.18
+authors: [ MelodicAlbuild ]
+description: Maximus Listener to Pay Attention to Global Madness
